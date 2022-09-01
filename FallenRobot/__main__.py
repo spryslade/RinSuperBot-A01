@@ -35,7 +35,6 @@ from FallenRobot import (
     DONATION_LINK,
     LOGGER,
     OWNER_ID,
-    OWNER_USERNAME,
     PORT,
     START_IMG,
     SUPPORT_CHAT,
