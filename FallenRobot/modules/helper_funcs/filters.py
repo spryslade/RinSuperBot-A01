@@ -1,7 +1,7 @@
 from telegram import Message
 from telegram.ext import BaseFilter
 
-from FallenRobot import DEMONS, DEV_USERS, DRAGONS
+from FallenRobot import DEV_USERS, DRAGONS
 
 
 class CustomFilters(object):
