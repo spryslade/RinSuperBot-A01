@@ -12,7 +12,7 @@ jobs:
       - name: Auto yapf
         uses: AlexanderMelde/yapf-action@master
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@master
+        uses: peter-evans/create-pull-request@main
         with:
           commit-message: Automated code formatting.
           committer: AnonymousR1025 <102808014+AnonymousR1025@users.noreply.github.com>
