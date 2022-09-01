@@ -7,7 +7,6 @@ def get_user_list(config, key):
         return json.load(json_file)[key]
 
 
-
 class Config(object):
     LOGGER = True
 
@@ -27,7 +26,7 @@ class Config(object):
     WEBHOOK = False
     INFOPIC = True
     URL = None
-    
+
     # OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
     DRAGONS = get_user_list("elevated_users.json", "sudos")
@@ -47,8 +46,10 @@ class Config(object):
     WORKERS = (
         8  # Number of subthreads to use. Set as number of threads your processor uses
     )
-    BAN_STICKER = "CAACAgUAAxkBAAEDafNhq5Z0DegqVzauwSighMw5cPWp8QACVgQAAuUG0FRXfCEuBziNzCIE"
-    ALLOW_EXCL = True 
+    BAN_STICKER = (
+        "CAACAgUAAxkBAAEDafNhq5Z0DegqVzauwSighMw5cPWp8QACVgQAAuUG0FRXfCEuBziNzCIE"
+    )
+    ALLOW_EXCL = True
     CASH_API_KEY = ""
     TIME_API_KEY = ""
     BL_CHATS = []

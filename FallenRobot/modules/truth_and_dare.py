@@ -1,23 +1,20 @@
-import io
-import re
-import html
-import random
 import requests
+from telegram import Update
+from telegram.ext import CallbackContext
+
 from FallenRobot import dispatcher
-from telegram import ParseMode, Update, Bot
 from FallenRobot.modules.disable import DisableAbleCommandHandler
-from telegram.ext import CallbackContext, run_async
 
 
 def truth(update: Update, context: CallbackContext):
-    args = context.args
+    context.args
     truth = requests.get("https://elianaapi.herokuapp.com/games/truth").json()
     truth = truth.get("truth")
     update.effective_message.reply_text(truth)
 
 
 def dare(update: Update, context: CallbackContext):
-    args = context.args
+    context.args
     dare = requests.get("https://elianaapi.herokuapp.com/games/dares").json()
     dare = dare.get("dare")
     update.effective_message.reply_text(dare)

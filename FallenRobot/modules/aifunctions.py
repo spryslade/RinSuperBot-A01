@@ -1,12 +1,10 @@
 import requests
 
 url = "https://iamai.p.rapidapi.com/ask"
-from FallenRobot import telethn, OWNER_ID
+import asyncio
+
+from FallenRobot import telethn
 from FallenRobot.events import register
-from telethon import events
-from telethon import types
-from telethon.tl import functions
-import asyncio, os
 
 
 @register(pattern="Fallen (.*)")

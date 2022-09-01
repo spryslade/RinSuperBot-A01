@@ -1,19 +1,12 @@
 from datetime import datetime
 
 from pyrogram import filters
-from pyrogram.types import (
-    InlineKeyboardButton,
-    InlineKeyboardMarkup,
-    CallbackQuery,
-    Message,
-)
+from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 
+from FallenRobot import OWNER_ID as owner_id
+from FallenRobot import OWNER_USERNAME as owner_usn
+from FallenRobot import SUPPORT_CHAT as log
 from FallenRobot import pbot as Client
-from FallenRobot import (
-    OWNER_ID as owner_id,
-    OWNER_USERNAME as owner_usn,
-    SUPPORT_CHAT as log,
-)
 from FallenRobot.utils.errors import capture_err
 
 

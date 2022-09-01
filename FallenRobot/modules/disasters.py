@@ -3,12 +3,16 @@ import json
 import os
 from typing import Optional
 
+from telegram import ParseMode, TelegramError, Update
+from telegram.ext import CallbackContext, CommandHandler, run_async
+from telegram.utils.helpers import mention_html
+
 from FallenRobot import (
-    DEV_USERS,
-    OWNER_ID,
-    DRAGONS,
-    SUPPORT_CHAT,
     DEMONS,
+    DEV_USERS,
+    DRAGONS,
+    OWNER_ID,
+    SUPPORT_CHAT,
     TIGERS,
     WOLVES,
     dispatcher,
@@ -20,9 +24,6 @@ from FallenRobot.modules.helper_funcs.chat_status import (
 )
 from FallenRobot.modules.helper_funcs.extraction import extract_user
 from FallenRobot.modules.log_channel import gloggable
-from telegram import ParseMode, TelegramError, Update
-from telegram.ext import CallbackContext, CommandHandler, run_async
-from telegram.utils.helpers import mention_html
 
 ELEVATED_USERS_FILE = os.path.join(os.getcwd(), "FallenRobot/elevated_users.json")
 
