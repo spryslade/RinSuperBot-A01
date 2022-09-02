@@ -5,9 +5,22 @@
  <img src="https://telegra.ph/file/c83549257099febca7349.jpg">
 </p>
 
-           ⇝ Astor Support ⇜
 <p align="center">
-<a href="https://t.me/AstorSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+  <a href="https://github.com/spryslade/RinSuperBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-GPLv3-blueviolet?style=for-the-badge" alt="License" /> </a>
+  <a href="https://makeapullrequest.com"> <img src="https://img.shields.io/badge/PRs-Welcome-yellow?style=for-the-badge" alt="PRs" /></a></br>
+  <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Made%20With-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
+  <a href="https://github.com/spryslade/ErikaAmano"> <img src="https://img.shields.io/badge/Maintained-Yes-lightgrey?style=for-the-badge" alt="Maintenance" /> </a>
+</p>
+
+<h2 align="center">
+    ──「 SUPPORT 」──
+</h2>
+
+<p align="center">
+<a href= "https://t.me/RinSuperBot"> <img src="https://img.shields.io/badge/RinSuper-Bot-purple?style=for-the-badge&logo=telegram" alt=ErzaScarlet_GroupBot on Telegram" /> </a>
+<a href= "https://t.me/AstorSupport"> <img src="https://img.shields.io/badge/Support-Chat-purple?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href="https://t.me/DarkkkCarnage"> <img src="https://img.shields.io/badge/DarkkkCarnage-Channel-purple?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
+</p>
 
 ## How to setup on Heroku 
 For starters click on this button 
