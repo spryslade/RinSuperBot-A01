@@ -17,10 +17,20 @@
 </h2>
 
 <p align="center">
-<a href= "https://t.me/RinSuperBot"> <img src="https://img.shields.io/badge/RinSuper-Bot-purple?style=for-the-badge&logo=telegram" alt=ErzaScarlet_GroupBot on Telegram" /> </a>
-<a href= "https://t.me/AstorSupport"> <img src="https://img.shields.io/badge/Support-Chat-purple?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
-<a href="https://t.me/DarkkkCarnage"> <img src="https://img.shields.io/badge/DarkkkCarnage-Channel-purple?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
+<a href= "https://t.me/RinSuperBot"> <img src="https://img.shields.io/badge/RinSuper-Bot-saffron?style=for-the-badge&logo=telegram" alt=ErzaScarlet_GroupBot on Telegram" /> </a>
+<a href= "https://t.me/AstorSupport"> <img src="https://img.shields.io/badge/Support-Chat-saffron?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href="https://t.me/DarkkkCarnage"> <img src="https://img.shields.io/badge/DarkkkCarnage-Channel-saffron?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
+
+<h2 align="center">
+    ──「 CREDIT 」──
+</h2>
+
+<p align="center">
+<a href="https://github.com/spryslade"> <img src="https://img.shields.io/badge/SLADE-Github-magenta?style=for-the-badge&logo=github" alt="SLADE Github" /> </a>
+<a href="https://github.com/AnonymousR1025"> <img src="https://img.shields.io/badge/Anonymous-Github-magenta?style=for-the-badge&logo=github" alt=" soheru Github" /> </a>
+</p>
+
 
 ## How to setup on Heroku 
 For starters click on this button 
