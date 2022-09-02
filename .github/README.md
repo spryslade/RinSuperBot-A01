@@ -7,7 +7,7 @@
 
  Rin Super Bot
 
-#Astor Support
+Astor Support
 <p align="center">
 <a href="https://t.me/AstorSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
