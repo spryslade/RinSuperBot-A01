@@ -35,8 +35,8 @@
 </h2>
 
 ```console
-git clone https://github.com/The-Hunter-Oraganization/group-manager
-cd NezukoBot
+git clone https://github.com/spryslade/RinSuperBot-A01
+cd RinSuperBot
 pip3 install -U -r requirements.txt
 cp sample_config.env config.env
 ```
@@ -74,8 +74,8 @@ python3 -m rin
 </h1>
 
 ```console
-git clone https://github.com/The-Hunter-Oraganization/group-manager
-cd NezukoBot
+git clone https://github.com/spryslade/RinSuperBot-A01
+cd RinSuperBot
 cp sample_config.env config.env
 ```
 <h3 align="center">
@@ -84,7 +84,7 @@ cp sample_config.env config.env
 
 ```console
 sudo docker build . -t nezuko
-sudo docker run nezuko
+sudo docker run rinsuperbot
 ```
 
 <h2 align="center">
