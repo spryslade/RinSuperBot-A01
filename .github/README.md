@@ -87,6 +87,39 @@ git clone https://github.com/The-Hunter-Oraganization/group-manager
 cd NezukoBot
 cp sample_config.env config.env
 ```
+<h3 align="center">
+    Edit <b> config.env </b> with your own values
+</h3>
+
+```console
+sudo docker build . -t nezuko
+sudo docker run nezuko
+```
+
+<h2 align="center">
+   ⇝ Write new modules ⇜
+</h2>
+
+```py
+# Add license text here, get it from below
+
+from nezuko import app # This is bot's client
+from pyrogram import filters # pyrogram filters
+...
 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/spryslade/RinSuperBot-A01"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+# For /help menu
+__MODULE__ = "Module Name"
+__HELP__ = "Module help message"
+@app.on_message(filters.command("start"))
+async def some_function(_, message):
+    await message.reply_text("I'm already up!!")
+
+# Many useful functions are in, nezuko/utils/, nezuko, and nezuko/core/
+```
+
+<h3 align="center">
+   And put that file in nezuko/modules/, restart and test your bot.
+
+
+<p align="center"><a href=""> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
