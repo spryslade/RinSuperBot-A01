@@ -106,7 +106,7 @@ __HELP__ = "Module help message"
 async def some_function(_, message):
     await message.reply_text("I'm already up!!")
 
-...
+```
 
 <h3 align="center">
    And put that file in rinsuperbot/modules/, restart and test your bot.
