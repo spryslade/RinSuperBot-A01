@@ -2,10 +2,8 @@
 # Ready to Ride
 
 <p align="center">
-<img https://telegra.ph/file/c83549257099febca7349.jpg.jpg">
+ <img src="https://telegra.ph/file/c83549257099febca7349.jpg.jpg">
 </p>
-
- Rin Super Bot
 
 Astor Support
 <p align="center">
