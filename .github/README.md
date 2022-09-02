@@ -27,8 +27,8 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/spryslade"> <img src="https://img.shields.io/badge/SLADE-Github-magenta?style=for-the-badge&logo=github" alt="SLADE Github" /> </a>
-<a href="https://github.com/AnonymousR1025"> <img src="https://img.shields.io/badge/Anonymous-Github-magenta?style=for-the-badge&logo=github" alt=" soheru Github" /> </a>
+<a href="https://github.com/spryslade"> <img src="https://img.shields.io/badge/SLADE-Github-crystalgreen?style=for-the-badge&logo=github" alt="SLADE Github" /> </a>
+<a href="https://github.com/AnonymousR1025"> <img src="https://img.shields.io/badge/Anonymous-Github-crystalgreen?style=for-the-badge&logo=github" alt=" soheru Github" /> </a>
 </p>
 
 
