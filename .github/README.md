@@ -5,7 +5,7 @@
 <img src="https://telegra.ph/file/7046fa7136dd54b6fe668.jpg">
 </p>
 
-# Rin Super Bot
+ Rin Super Bot
 
 #Astor Support
 <p align="center">
