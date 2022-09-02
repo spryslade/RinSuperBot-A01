@@ -2,7 +2,7 @@
 # Ready to Ride
 
 <p align="center">
-<img src="https://telegra.ph/file/7046fa7136dd54b6fe668.jpg">
+<img https://telegra.ph/file/c83549257099febca7349.jpg.jpg">
 </p>
 
  Rin Super Bot
