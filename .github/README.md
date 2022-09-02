@@ -22,22 +22,13 @@
 
 
 <h2 align="center">
-    ──「 SUPPORT 」──
+    ⇝ SUPPORT ⇜
 </h2>
 
 <p align="center">
 <a href= "https://t.me/RinSuperBot"> <img src="https://img.shields.io/badge/RinSuper-Bot-blue?style=for-the-badge&logo=telegram" alt=ErzaScarlet_GroupBot on Telegram" /> </a>
 <a href= "https://t.me/AstorSupport"> <img src="https://img.shields.io/badge/Support-Chat-red?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
 <a href="https://t.me/DarkkkCarnage"> <img src="https://img.shields.io/badge/DarkkkCarnage-Channel-yellow?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
-</p>
-
-<h2 align="center">
-    ──「 CREDIT 」──
-</h2>
-
-<p align="center">
-<a href="https://github.com/spryslade"> <img src="https://img.shields.io/badge/SLADE-Github-crystalgreen?style=for-the-badge&logo=github" alt="SLADE Github" /> </a>
-<a href="https://github.com/AnonymousR1025"> <img src="https://img.shields.io/badge/Anonymous-Github-crystalgreen?style=for-the-badge&logo=github" alt=" soheru Github" /> </a>
 </p>
 
  ⇝ Install Locally Or On A VPS ⇜
