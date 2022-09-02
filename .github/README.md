@@ -5,7 +5,7 @@
  <img src="https://telegra.ph/file/c83549257099febca7349.jpg">
 </p>
 
-Astor Support
+                                Astor Support
 <p align="center">
 <a href="https://t.me/AstorSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
