@@ -83,7 +83,7 @@ cp sample_config.env config.env
 </h3>
 
 ```console
-sudo docker build . -t nezuko
+sudo docker build . -t rinsuperbot
 sudo docker run rinsuperbot
 ```
 
@@ -106,11 +106,10 @@ __HELP__ = "Module help message"
 async def some_function(_, message):
     await message.reply_text("I'm already up!!")
 
-# Many useful functions are in, nezuko/utils/, nezuko, and nezuko/core/
-```
+...
 
 <h3 align="center">
-   And put that file in nezuko/modules/, restart and test your bot.
+   And put that file in rinsuperbot/modules/, restart and test your bot.
 
 <h2 align="center">
      ⇝ Credits ⇜
