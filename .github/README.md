@@ -1,5 +1,5 @@
 # Rin
-# Ready to Ride
+# Ready to Ride🔥
 
 <p align="center">
  <img src="https://telegra.ph/file/c83549257099febca7349.jpg">
