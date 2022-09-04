@@ -114,7 +114,7 @@ buttons = [
 ]
 
 HELP_STRINGS = f"""
-*❆ {BOT_NAME} Exᴄʟᴜsɪᴠᴇ Fᴇᴀᴛᴜʀᴇs*
+*❆ {BOT_NAME} Exᴄʟᴜsɪᴠᴇ Fᴇᴀᴛᴜʀᴇs* [.](https://telegra.ph/file/a4fb1154f672519bee0a4.jpg) 
 
 ➲ /start : Sᴛᴀʀᴛꜱ Mᴇ | Aᴄᴄᴏʀᴅɪɴɢ Tᴏ Mᴇ Yᴏᴜ'ᴠᴇ Aʟʀᴇᴀᴅʏ Dᴏɴᴇ Iᴛ​.
 ➲ /donate : Sᴜᴘᴘᴏʀᴛ Mᴇ Bʏ Dᴏɴᴀᴛɪɴɢ Fᴏʀ Mʏ Hᴀʀᴅᴡᴏʀᴋ​.
