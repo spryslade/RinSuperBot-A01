@@ -109,7 +109,6 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="Dᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"),
-        InlineKeyboardButton(text="Oᴡɴᴇʀ Tʜᴏᴜɢʜᴛs", url=f"https://t.me/SladeXThoughts"),
     ],
 ]
 
