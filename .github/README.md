@@ -2,7 +2,7 @@
 # Ready to Ride🔥
 
 <p align="center">
- <img src="https://telegra.ph/file/c83549257099febca7349.jpg">
+ <img src="https://telegra.ph/file/e3e3a576a8cf7d62d1914.jpg">
 </p>
 <p align="center">
     <a href="https://python.org">
