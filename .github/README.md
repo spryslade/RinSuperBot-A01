@@ -8,7 +8,7 @@
     <a href="https://python.org">
         <img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python">
     </a>
-    <a href="https://GitHub.com/rozari0">
+    <a href="https://GitHub.com/spryslade">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built-with-love">
     </a> <br>
     <img src="https://img.shields.io/github/license/spryslade/RinSuperBot-A01?style=for-the-badge&logo=appveyor" alt="LICENSE">
@@ -26,9 +26,9 @@
 </h2>
 
 <p align="center">
-<a href= "https://t.me/RinSuperBot"> <img src="https://img.shields.io/badge/RinSuper-Bot-blue?style=for-the-badge&logo=telegram" alt=ErzaScarlet_GroupBot on Telegram" /> </a>
-<a href= "https://t.me/AstorSupport"> <img src="https://img.shields.io/badge/Powered_by_Astor-yellow?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
-<a href="https://t.me/DarkkkCarnage"> <img src="https://img.shields.io/badge/DarkkkCarnage-Channel-yellow?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
+<a href= "https://t.me/RinSuperBot"> <img src="https://img.shields.io/badge/RinSuper-Bot-saffron?style=for-the-badge&logo=telegram" alt=ErzaScarlet_GroupBot on Telegram" /> </a>
+<a href= "https://t.me/AstorSupport"> <img src="https://img.shields.io/badge/Powered_by_Astor-red?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href="https://t.me/DarkkkCarnage"> <img src="https://img.shields.io/badge/DarkkkCarnage-Channel-orange?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
  ⇝ Install Locally Or On A VPS ⇜
