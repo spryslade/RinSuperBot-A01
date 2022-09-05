@@ -116,5 +116,5 @@ async def some_function(_, message):
 </h2>
 
 <p align="center">
-<a href="https://github.com/spryslade"> <img src="https://img.shields.io/badge/OWNERSLADE-Github-crystalgreen?style=for-the-badge&logo=github" alt="SLADE Github" /> </a>
+<a href="https://github.com/spryslade"> <img src="https://img.shields.io/badge/OWNER_SLADE-Github-crystalgreen?style=for-the-badge&logo=github" alt="SLADE Github" /> </a>
 </p>
