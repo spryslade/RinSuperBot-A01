@@ -27,7 +27,7 @@
 
 <p align="center">
 <a href= "https://t.me/RinSuperBot"> <img src="https://img.shields.io/badge/RinSuper-Bot-blue?style=for-the-badge&logo=telegram" alt=ErzaScarlet_GroupBot on Telegram" /> </a>
-<a href= "https://t.me/AstorSupport"> <img src="https://img.shields.io/badge/Support-Chat-red?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
+<a href= "https://t.me/AstorSupport"> <img src="https://img.shields.io/badge/Powered_by_Astor-yellow?style=for-the-badge&logo=telegram" alt="Support Chat" /> </a>
 <a href="https://t.me/DarkkkCarnage"> <img src="https://img.shields.io/badge/DarkkkCarnage-Channel-yellow?style=for-the-badge&logo=telegram" alt="Update Channel" /> </a>
 </p>
 
